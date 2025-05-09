@@ -6,3 +6,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kado-kado&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kado-kado&theme=dark" width="48%" >
