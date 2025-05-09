@@ -12,3 +12,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kado-kado&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kado-kado&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kado-kado&theme=default&utcOffset=8)
+
+https://github-readme-stats.vercel.app/api/wakatime?username=kado-kado&langs_count=8&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa (works as expected)
