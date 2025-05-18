@@ -4,7 +4,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kado-kado&layout=compact&count_private=true" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kado-kado&theme=default&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=kado-kado&theme=default&column=4
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kado-kado&theme=default)
